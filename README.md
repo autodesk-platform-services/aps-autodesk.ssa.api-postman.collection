@@ -10,6 +10,7 @@
 This folder contains a Postman Collection that includes all the currentAPS Secure Service Account (SSA) API. The collection together with the environment help you easily test these endpoints.
 
 ![CollectionAndTutorials](img/collection.png)
+![CollectionAndTutorials-contd.](img/collection-2.png)
 
 ## Instructions to run the Postman collection are as below
 
